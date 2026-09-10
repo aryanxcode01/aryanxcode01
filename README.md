@@ -29,13 +29,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ### ⚙️ Tools
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 
 ---
-
 ## 🧩 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/raat_ke_shikari?theme=light&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/raat_ke_shikari/)
